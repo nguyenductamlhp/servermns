@@ -20,3 +20,6 @@ git subtree add --prefix=addons/knowledge https://github.com/OCA/knowledge.git 1
 git subtree add --prefix=addons/project https://github.com/OCA/project.git 13.0 --squash -m 'add project:13.0 subtree in addons/project'
 git subtree add --prefix=addons/social https://github.com/OCA/social.git 13.0 --squash -m 'add social:13.0 subtree in addons/social'
 git subtree add --prefix=addons/wms https://github.com/OCA/wms.git 13.0 --squash -m 'add wms:13.0 subtree in addons/wms'
+
+
+git subtree add --prefix=addons/server-mns https://github.com/nguyenductamlhp/server-mns.git 13.0 --squash -m 'add server-mns:13.0 subtree in addons/server-mns'
